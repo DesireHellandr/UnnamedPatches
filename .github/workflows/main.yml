@@ -1,0 +1,40 @@
+name: Generate MD5 checksums
+
+on:
+  push:
+    paths-ignore:
+      - 'md5.txt'          # prevent infinite loop when the action updates md5.txt
+
+jobs:
+  generate-md5:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute MD5 checksums
+        run: |
+          # Find all files except .git/ and the md5.txt itself
+          find . -type f \
+            -not -path './.git/*' \
+            -not -name 'md5.txt' \
+            -print0 | xargs -0 md5sum | sort > /tmp/raw.txt
+
+          # Reformat to "hash - file" (preserving spaces in filenames)
+          > md5.txt
+          while IFS= read -r line; do
+            hash=$(echo "$line" | awk '{print $1}')
+            file=$(echo "$line" | awk '{$1=""; print $0}' | sed 's/^[[:space:]]*//')
+            echo "$hash - $file" >> md5.txt
+          done < /tmp/raw.txt
+
+      - name: Commit and push md5.txt if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add md5.txt
+          if git diff --staged --quiet; then
+            echo "No changes to md5.txt"
+          else
+            git commit -m "Update md5.txt"
+            git push
+          fi
