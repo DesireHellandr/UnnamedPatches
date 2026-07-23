@@ -3,23 +3,25 @@ name: Generate MD5 checksums
 on:
   push:
     paths-ignore:
-      - 'md5.txt'          # prevent infinite loop when the action updates md5.txt
+      - 'md5.txt'
 
 jobs:
   generate-md5:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write          # разрешаем пушить изменения
     steps:
       - uses: actions/checkout@v4
 
       - name: Compute MD5 checksums
         run: |
-          # Find all files except .git/ and the md5.txt itself
+          # Ищем все файлы, исключая .git/ и сам md5.txt
           find . -type f \
             -not -path './.git/*' \
             -not -name 'md5.txt' \
             -print0 | xargs -0 md5sum | sort > /tmp/raw.txt
 
-          # Reformat to "hash - file" (preserving spaces in filenames)
+          # Приводим к формату "хеш - файл"
           > md5.txt
           while IFS= read -r line; do
             hash=$(echo "$line" | awk '{print $1}')
