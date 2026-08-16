@@ -1,0 +1,1415 @@
+{
+  "name": "StormwindFederation",
+  "version": "MU-12",
+  "url": null,
+  "files": [
+    {
+      "id": 778232,
+      "file": "world/maps/azeroth/azeroth_33_49.adt"
+    },
+    {
+      "id": 778233,
+      "file": "world/maps/azeroth/azeroth_33_49_obj0.adt"
+    },
+    {
+      "id": 778234,
+      "file": "world/maps/azeroth/azeroth_33_49_obj1.adt"
+    },
+    {
+      "id": 778235,
+      "file": "world/maps/azeroth/azeroth_33_49_tex0.adt"
+    },
+    {
+      "id": 778427,
+      "file": "world/maps/azeroth/azeroth_34_48.adt"
+    },
+    {
+      "id": 778428,
+      "file": "world/maps/azeroth/azeroth_34_48_obj0.adt"
+    },
+    {
+      "id": 778429,
+      "file": "world/maps/azeroth/azeroth_34_48_obj1.adt"
+    },
+    {
+      "id": 778430,
+      "file": "world/maps/azeroth/azeroth_34_48_tex0.adt"
+    },
+    {
+      "id": 778432,
+      "file": "world/maps/azeroth/azeroth_34_49.adt"
+    },
+    {
+      "id": 778433,
+      "file": "world/maps/azeroth/azeroth_34_49_obj0.adt"
+    },
+    {
+      "id": 778434,
+      "file": "world/maps/azeroth/azeroth_34_49_obj1.adt"
+    },
+    {
+      "id": 778435,
+      "file": "world/maps/azeroth/azeroth_34_49_tex0.adt"
+    },
+    {
+      "id": 778437,
+      "file": "world/maps/azeroth/azeroth_34_50.adt"
+    },
+    {
+      "id": 778438,
+      "file": "world/maps/azeroth/azeroth_34_50_obj0.adt"
+    },
+    {
+      "id": 778439,
+      "file": "world/maps/azeroth/azeroth_34_50_obj1.adt"
+    },
+    {
+      "id": 778440,
+      "file": "world/maps/azeroth/azeroth_34_50_tex0.adt"
+    },
+    {
+      "id": 778637,
+      "file": "world/maps/azeroth/azeroth_35_48.adt"
+    },
+    {
+      "id": 778638,
+      "file": "world/maps/azeroth/azeroth_35_48_obj0.adt"
+    },
+    {
+      "id": 778639,
+      "file": "world/maps/azeroth/azeroth_35_48_obj1.adt"
+    },
+    {
+      "id": 778640,
+      "file": "world/maps/azeroth/azeroth_35_48_tex0.adt"
+    },
+    {
+      "id": 778642,
+      "file": "world/maps/azeroth/azeroth_35_49.adt"
+    },
+    {
+      "id": 778643,
+      "file": "world/maps/azeroth/azeroth_35_49_obj0.adt"
+    },
+    {
+      "id": 778644,
+      "file": "world/maps/azeroth/azeroth_35_49_obj1.adt"
+    },
+    {
+      "id": 778645,
+      "file": "world/maps/azeroth/azeroth_35_49_tex0.adt"
+    },
+    {
+      "id": 778647,
+      "file": "world/maps/azeroth/azeroth_35_50.adt"
+    },
+    {
+      "id": 778648,
+      "file": "world/maps/azeroth/azeroth_35_50_obj0.adt"
+    },
+    {
+      "id": 778649,
+      "file": "world/maps/azeroth/azeroth_35_50_obj1.adt"
+    },
+    {
+      "id": 778650,
+      "file": "world/maps/azeroth/azeroth_35_50_tex0.adt"
+    },
+    {
+      "id": 778652,
+      "file": "world/maps/azeroth/azeroth_35_51.adt"
+    },
+    {
+      "id": 778653,
+      "file": "world/maps/azeroth/azeroth_35_51_obj0.adt"
+    },
+    {
+      "id": 778654,
+      "file": "world/maps/azeroth/azeroth_35_51_obj1.adt"
+    },
+    {
+      "id": 778655,
+      "file": "world/maps/azeroth/azeroth_35_51_tex0.adt"
+    },
+    {
+      "id": 778832,
+      "file": "world/maps/azeroth/azeroth_36_48.adt"
+    },
+    {
+      "id": 778833,
+      "file": "world/maps/azeroth/azeroth_36_48_obj0.adt"
+    },
+    {
+      "id": 778834,
+      "file": "world/maps/azeroth/azeroth_36_48_obj1.adt"
+    },
+    {
+      "id": 778835,
+      "file": "world/maps/azeroth/azeroth_36_48_tex0.adt"
+    },
+    {
+      "id": 778837,
+      "file": "world/maps/azeroth/azeroth_36_49.adt"
+    },
+    {
+      "id": 778838,
+      "file": "world/maps/azeroth/azeroth_36_49_obj0.adt"
+    },
+    {
+      "id": 778839,
+      "file": "world/maps/azeroth/azeroth_36_49_obj1.adt"
+    },
+    {
+      "id": 778840,
+      "file": "world/maps/azeroth/azeroth_36_49_tex0.adt"
+    },
+    {
+      "id": 778842,
+      "file": "world/maps/azeroth/azeroth_36_50.adt"
+    },
+    {
+      "id": 778843,
+      "file": "world/maps/azeroth/azeroth_36_50_obj0.adt"
+    },
+    {
+      "id": 778844,
+      "file": "world/maps/azeroth/azeroth_36_50_obj1.adt"
+    },
+    {
+      "id": 778845,
+      "file": "world/maps/azeroth/azeroth_36_50_tex0.adt"
+    },
+    {
+      "id": 779022,
+      "file": "world/maps/azeroth/azeroth_37_48.adt"
+    },
+    {
+      "id": 779023,
+      "file": "world/maps/azeroth/azeroth_37_48_obj0.adt"
+    },
+    {
+      "id": 779024,
+      "file": "world/maps/azeroth/azeroth_37_48_obj1.adt"
+    },
+    {
+      "id": 779025,
+      "file": "world/maps/azeroth/azeroth_37_48_tex0.adt"
+    },
+    {
+      "id": 779027,
+      "file": "world/maps/azeroth/azeroth_37_49.adt"
+    },
+    {
+      "id": 779028,
+      "file": "world/maps/azeroth/azeroth_37_49_obj0.adt"
+    },
+    {
+      "id": 779029,
+      "file": "world/maps/azeroth/azeroth_37_49_obj1.adt"
+    },
+    {
+      "id": 779030,
+      "file": "world/maps/azeroth/azeroth_37_49_tex0.adt"
+    },
+    {
+      "id": 779032,
+      "file": "world/maps/azeroth/azeroth_37_50.adt"
+    },
+    {
+      "id": 779033,
+      "file": "world/maps/azeroth/azeroth_37_50_obj0.adt"
+    },
+    {
+      "id": 779034,
+      "file": "world/maps/azeroth/azeroth_37_50_obj1.adt"
+    },
+    {
+      "id": 779035,
+      "file": "world/maps/azeroth/azeroth_37_50_tex0.adt"
+    },
+    {
+      "id": 779207,
+      "file": "world/maps/azeroth/azeroth_38_48.adt"
+    },
+    {
+      "id": 779208,
+      "file": "world/maps/azeroth/azeroth_38_48_obj0.adt"
+    },
+    {
+      "id": 779209,
+      "file": "world/maps/azeroth/azeroth_38_48_obj1.adt"
+    },
+    {
+      "id": 779210,
+      "file": "world/maps/azeroth/azeroth_38_48_tex0.adt"
+    },
+    {
+      "id": 779212,
+      "file": "world/maps/azeroth/azeroth_38_49.adt"
+    },
+    {
+      "id": 779213,
+      "file": "world/maps/azeroth/azeroth_38_49_obj0.adt"
+    },
+    {
+      "id": 779214,
+      "file": "world/maps/azeroth/azeroth_38_49_obj1.adt"
+    },
+    {
+      "id": 779215,
+      "file": "world/maps/azeroth/azeroth_38_49_tex0.adt"
+    },
+    {
+      "id": 779217,
+      "file": "world/maps/azeroth/azeroth_38_50.adt"
+    },
+    {
+      "id": 779218,
+      "file": "world/maps/azeroth/azeroth_38_50_obj0.adt"
+    },
+    {
+      "id": 779219,
+      "file": "world/maps/azeroth/azeroth_38_50_obj1.adt"
+    },
+    {
+      "id": 779220,
+      "file": "world/maps/azeroth/azeroth_38_50_tex0.adt"
+    },
+    {
+      "id": 779402,
+      "file": "world/maps/azeroth/azeroth_39_50.adt"
+    },
+    {
+      "id": 779403,
+      "file": "world/maps/azeroth/azeroth_39_50_obj0.adt"
+    },
+    {
+      "id": 779404,
+      "file": "world/maps/azeroth/azeroth_39_50_obj1.adt"
+    },
+    {
+      "id": 779405,
+      "file": "world/maps/azeroth/azeroth_39_50_tex0.adt"
+    },
+    {
+      "id": 779412,
+      "file": "world/maps/azeroth/azeroth_39_52.adt"
+    },
+    {
+      "id": 779413,
+      "file": "world/maps/azeroth/azeroth_39_52_obj0.adt"
+    },
+    {
+      "id": 779414,
+      "file": "world/maps/azeroth/azeroth_39_52_obj1.adt"
+    },
+    {
+      "id": 779415,
+      "file": "world/maps/azeroth/azeroth_39_52_tex0.adt"
+    },
+    {
+      "id": 779587,
+      "file": "world/maps/azeroth/azeroth_40_50.adt"
+    },
+    {
+      "id": 779588,
+      "file": "world/maps/azeroth/azeroth_40_50_obj0.adt"
+    },
+    {
+      "id": 779589,
+      "file": "world/maps/azeroth/azeroth_40_50_obj1.adt"
+    },
+    {
+      "id": 779590,
+      "file": "world/maps/azeroth/azeroth_40_50_tex0.adt"
+    },
+    {
+      "id": 777242,
+      "file": "world/maps/azeroth/azeroth_28_51.adt"
+    },
+    {
+      "id": 777243,
+      "file": "world/maps/azeroth/azeroth_28_51_obj0.adt"
+    },
+    {
+      "id": 777244,
+      "file": "world/maps/azeroth/azeroth_28_51_obj1.adt"
+    },
+    {
+      "id": 777245,
+      "file": "world/maps/azeroth/azeroth_28_51_tex0.adt"
+    },
+    {
+      "id": 777422,
+      "file": "world/maps/azeroth/azeroth_29_47.adt"
+    },
+    {
+      "id": 777423,
+      "file": "world/maps/azeroth/azeroth_29_47_obj0.adt"
+    },
+    {
+      "id": 777424,
+      "file": "world/maps/azeroth/azeroth_29_47_obj1.adt"
+    },
+    {
+      "id": 777425,
+      "file": "world/maps/azeroth/azeroth_29_47_tex0.adt"
+    },
+    {
+      "id": 777427,
+      "file": "world/maps/azeroth/azeroth_29_48.adt"
+    },
+    {
+      "id": 777428,
+      "file": "world/maps/azeroth/azeroth_29_48_obj0.adt"
+    },
+    {
+      "id": 777429,
+      "file": "world/maps/azeroth/azeroth_29_48_obj1.adt"
+    },
+    {
+      "id": 777430,
+      "file": "world/maps/azeroth/azeroth_29_48_tex0.adt"
+    },
+    {
+      "id": 777432,
+      "file": "world/maps/azeroth/azeroth_29_49.adt"
+    },
+    {
+      "id": 777433,
+      "file": "world/maps/azeroth/azeroth_29_49_obj0.adt"
+    },
+    {
+      "id": 777434,
+      "file": "world/maps/azeroth/azeroth_29_49_obj1.adt"
+    },
+    {
+      "id": 777435,
+      "file": "world/maps/azeroth/azeroth_29_49_tex0.adt"
+    },
+    {
+      "id": 777442,
+      "file": "world/maps/azeroth/azeroth_29_51.adt"
+    },
+    {
+      "id": 777443,
+      "file": "world/maps/azeroth/azeroth_29_51_obj0.adt"
+    },
+    {
+      "id": 777444,
+      "file": "world/maps/azeroth/azeroth_29_51_obj1.adt"
+    },
+    {
+      "id": 777445,
+      "file": "world/maps/azeroth/azeroth_29_51_tex0.adt"
+    },
+    {
+      "id": 777617,
+      "file": "world/maps/azeroth/azeroth_30_46.adt"
+    },
+    {
+      "id": 777618,
+      "file": "world/maps/azeroth/azeroth_30_46_obj0.adt"
+    },
+    {
+      "id": 777619,
+      "file": "world/maps/azeroth/azeroth_30_46_obj1.adt"
+    },
+    {
+      "id": 777620,
+      "file": "world/maps/azeroth/azeroth_30_46_tex0.adt"
+    },
+    {
+      "id": 777622,
+      "file": "world/maps/azeroth/azeroth_30_47.adt"
+    },
+    {
+      "id": 777623,
+      "file": "world/maps/azeroth/azeroth_30_47_obj0.adt"
+    },
+    {
+      "id": 777624,
+      "file": "world/maps/azeroth/azeroth_30_47_obj1.adt"
+    },
+    {
+      "id": 777625,
+      "file": "world/maps/azeroth/azeroth_30_47_tex0.adt"
+    },
+    {
+      "id": 777627,
+      "file": "world/maps/azeroth/azeroth_30_48.adt"
+    },
+    {
+      "id": 777628,
+      "file": "world/maps/azeroth/azeroth_30_48_obj0.adt"
+    },
+    {
+      "id": 777629,
+      "file": "world/maps/azeroth/azeroth_30_48_obj1.adt"
+    },
+    {
+      "id": 777630,
+      "file": "world/maps/azeroth/azeroth_30_48_tex0.adt"
+    },
+    {
+      "id": 777632,
+      "file": "world/maps/azeroth/azeroth_30_49.adt"
+    },
+    {
+      "id": 777633,
+      "file": "world/maps/azeroth/azeroth_30_49_obj0.adt"
+    },
+    {
+      "id": 777634,
+      "file": "world/maps/azeroth/azeroth_30_49_obj1.adt"
+    },
+    {
+      "id": 777635,
+      "file": "world/maps/azeroth/azeroth_30_49_tex0.adt"
+    },
+    {
+      "id": 777637,
+      "file": "world/maps/azeroth/azeroth_30_50.adt"
+    },
+    {
+      "id": 777638,
+      "file": "world/maps/azeroth/azeroth_30_50_obj0.adt"
+    },
+    {
+      "id": 777639,
+      "file": "world/maps/azeroth/azeroth_30_50_obj1.adt"
+    },
+    {
+      "id": 777640,
+      "file": "world/maps/azeroth/azeroth_30_50_tex0.adt"
+    },
+    {
+      "id": 777642,
+      "file": "world/maps/azeroth/azeroth_30_51.adt"
+    },
+    {
+      "id": 777643,
+      "file": "world/maps/azeroth/azeroth_30_51_obj0.adt"
+    },
+    {
+      "id": 777644,
+      "file": "world/maps/azeroth/azeroth_30_51_obj1.adt"
+    },
+    {
+      "id": 777645,
+      "file": "world/maps/azeroth/azeroth_30_51_tex0.adt"
+    },
+    {
+      "id": 777647,
+      "file": "world/maps/azeroth/azeroth_30_52.adt"
+    },
+    {
+      "id": 777648,
+      "file": "world/maps/azeroth/azeroth_30_52_obj0.adt"
+    },
+    {
+      "id": 777649,
+      "file": "world/maps/azeroth/azeroth_30_52_obj1.adt"
+    },
+    {
+      "id": 777650,
+      "file": "world/maps/azeroth/azeroth_30_52_tex0.adt"
+    },
+    {
+      "id": 777652,
+      "file": "world/maps/azeroth/azeroth_30_53.adt"
+    },
+    {
+      "id": 777653,
+      "file": "world/maps/azeroth/azeroth_30_53_obj0.adt"
+    },
+    {
+      "id": 777654,
+      "file": "world/maps/azeroth/azeroth_30_53_obj1.adt"
+    },
+    {
+      "id": 777655,
+      "file": "world/maps/azeroth/azeroth_30_53_tex0.adt"
+    },
+    {
+      "id": 777817,
+      "file": "world/maps/azeroth/azeroth_31_46.adt"
+    },
+    {
+      "id": 777818,
+      "file": "world/maps/azeroth/azeroth_31_46_obj0.adt"
+    },
+    {
+      "id": 777819,
+      "file": "world/maps/azeroth/azeroth_31_46_obj1.adt"
+    },
+    {
+      "id": 777820,
+      "file": "world/maps/azeroth/azeroth_31_46_tex0.adt"
+    },
+    {
+      "id": 777822,
+      "file": "world/maps/azeroth/azeroth_31_47.adt"
+    },
+    {
+      "id": 777823,
+      "file": "world/maps/azeroth/azeroth_31_47_obj0.adt"
+    },
+    {
+      "id": 777824,
+      "file": "world/maps/azeroth/azeroth_31_47_obj1.adt"
+    },
+    {
+      "id": 777825,
+      "file": "world/maps/azeroth/azeroth_31_47_tex0.adt"
+    },
+    {
+      "id": 777827,
+      "file": "world/maps/azeroth/azeroth_31_48.adt"
+    },
+    {
+      "id": 777828,
+      "file": "world/maps/azeroth/azeroth_31_48_obj0.adt"
+    },
+    {
+      "id": 777829,
+      "file": "world/maps/azeroth/azeroth_31_48_obj1.adt"
+    },
+    {
+      "id": 777830,
+      "file": "world/maps/azeroth/azeroth_31_48_tex0.adt"
+    },
+    {
+      "id": 777832,
+      "file": "world/maps/azeroth/azeroth_31_49.adt"
+    },
+    {
+      "id": 777833,
+      "file": "world/maps/azeroth/azeroth_31_49_obj0.adt"
+    },
+    {
+      "id": 777834,
+      "file": "world/maps/azeroth/azeroth_31_49_obj1.adt"
+    },
+    {
+      "id": 777835,
+      "file": "world/maps/azeroth/azeroth_31_49_tex0.adt"
+    },
+    {
+      "id": 777837,
+      "file": "world/maps/azeroth/azeroth_31_50.adt"
+    },
+    {
+      "id": 777838,
+      "file": "world/maps/azeroth/azeroth_31_50_obj0.adt"
+    },
+    {
+      "id": 777839,
+      "file": "world/maps/azeroth/azeroth_31_50_obj1.adt"
+    },
+    {
+      "id": 777840,
+      "file": "world/maps/azeroth/azeroth_31_50_tex0.adt"
+    },
+    {
+      "id": 777842,
+      "file": "world/maps/azeroth/azeroth_31_51.adt"
+    },
+    {
+      "id": 777843,
+      "file": "world/maps/azeroth/azeroth_31_51_obj0.adt"
+    },
+    {
+      "id": 777844,
+      "file": "world/maps/azeroth/azeroth_31_51_obj1.adt"
+    },
+    {
+      "id": 777845,
+      "file": "world/maps/azeroth/azeroth_31_51_tex0.adt"
+    },
+    {
+      "id": 777847,
+      "file": "world/maps/azeroth/azeroth_31_52.adt"
+    },
+    {
+      "id": 777848,
+      "file": "world/maps/azeroth/azeroth_31_52_obj0.adt"
+    },
+    {
+      "id": 777849,
+      "file": "world/maps/azeroth/azeroth_31_52_obj1.adt"
+    },
+    {
+      "id": 777850,
+      "file": "world/maps/azeroth/azeroth_31_52_tex0.adt"
+    },
+    {
+      "id": 777852,
+      "file": "world/maps/azeroth/azeroth_31_53.adt"
+    },
+    {
+      "id": 777853,
+      "file": "world/maps/azeroth/azeroth_31_53_obj0.adt"
+    },
+    {
+      "id": 777854,
+      "file": "world/maps/azeroth/azeroth_31_53_obj1.adt"
+    },
+    {
+      "id": 777855,
+      "file": "world/maps/azeroth/azeroth_31_53_tex0.adt"
+    },
+    {
+      "id": 778022,
+      "file": "world/maps/azeroth/azeroth_32_47.adt"
+    },
+    {
+      "id": 778023,
+      "file": "world/maps/azeroth/azeroth_32_47_obj0.adt"
+    },
+    {
+      "id": 778024,
+      "file": "world/maps/azeroth/azeroth_32_47_obj1.adt"
+    },
+    {
+      "id": 778025,
+      "file": "world/maps/azeroth/azeroth_32_47_tex0.adt"
+    },
+    {
+      "id": 778027,
+      "file": "world/maps/azeroth/azeroth_32_48.adt"
+    },
+    {
+      "id": 778028,
+      "file": "world/maps/azeroth/azeroth_32_48_obj0.adt"
+    },
+    {
+      "id": 778029,
+      "file": "world/maps/azeroth/azeroth_32_48_obj1.adt"
+    },
+    {
+      "id": 778030,
+      "file": "world/maps/azeroth/azeroth_32_48_tex0.adt"
+    },
+    {
+      "id": 778032,
+      "file": "world/maps/azeroth/azeroth_32_49.adt"
+    },
+    {
+      "id": 778033,
+      "file": "world/maps/azeroth/azeroth_32_49_obj0.adt"
+    },
+    {
+      "id": 778034,
+      "file": "world/maps/azeroth/azeroth_32_49_obj1.adt"
+    },
+    {
+      "id": 778035,
+      "file": "world/maps/azeroth/azeroth_32_49_tex0.adt"
+    },
+    {
+      "id": 778037,
+      "file": "world/maps/azeroth/azeroth_32_50.adt"
+    },
+    {
+      "id": 778038,
+      "file": "world/maps/azeroth/azeroth_32_50_obj0.adt"
+    },
+    {
+      "id": 778039,
+      "file": "world/maps/azeroth/azeroth_32_50_obj1.adt"
+    },
+    {
+      "id": 778040,
+      "file": "world/maps/azeroth/azeroth_32_50_tex0.adt"
+    },
+    {
+      "id": 778042,
+      "file": "world/maps/azeroth/azeroth_32_51.adt"
+    },
+    {
+      "id": 778043,
+      "file": "world/maps/azeroth/azeroth_32_51_obj0.adt"
+    },
+    {
+      "id": 778044,
+      "file": "world/maps/azeroth/azeroth_32_51_obj1.adt"
+    },
+    {
+      "id": 778045,
+      "file": "world/maps/azeroth/azeroth_32_51_tex0.adt"
+    },
+    {
+      "id": 778222,
+      "file": "world/maps/azeroth/azeroth_33_47.adt"
+    },
+    {
+      "id": 778223,
+      "file": "world/maps/azeroth/azeroth_33_47_obj0.adt"
+    },
+    {
+      "id": 778224,
+      "file": "world/maps/azeroth/azeroth_33_47_obj1.adt"
+    },
+    {
+      "id": 778225,
+      "file": "world/maps/azeroth/azeroth_33_47_tex0.adt"
+    },
+    {
+      "id": 778227,
+      "file": "world/maps/azeroth/azeroth_33_48.adt"
+    },
+    {
+      "id": 778228,
+      "file": "world/maps/azeroth/azeroth_33_48_obj0.adt"
+    },
+    {
+      "id": 778229,
+      "file": "world/maps/azeroth/azeroth_33_48_obj1.adt"
+    },
+    {
+      "id": 778230,
+      "file": "world/maps/azeroth/azeroth_33_48_tex0.adt"
+    },
+    {
+      "id": 778237,
+      "file": "world/maps/azeroth/azeroth_33_50.adt"
+    },
+    {
+      "id": 778238,
+      "file": "world/maps/azeroth/azeroth_33_50_obj0.adt"
+    },
+    {
+      "id": 778239,
+      "file": "world/maps/azeroth/azeroth_33_50_obj1.adt"
+    },
+    {
+      "id": 778240,
+      "file": "world/maps/azeroth/azeroth_33_50_tex0.adt"
+    },
+    {
+      "id": 778247,
+      "file": "world/maps/azeroth/azeroth_33_52.adt"
+    },
+    {
+      "id": 778248,
+      "file": "world/maps/azeroth/azeroth_33_52_obj0.adt"
+    },
+    {
+      "id": 778249,
+      "file": "world/maps/azeroth/azeroth_33_52_obj1.adt"
+    },
+    {
+      "id": 778250,
+      "file": "world/maps/azeroth/azeroth_33_52_tex0.adt"
+    },
+    {
+      "id": 778442,
+      "file": "world/maps/azeroth/azeroth_34_51.adt"
+    },
+    {
+      "id": 778443,
+      "file": "world/maps/azeroth/azeroth_34_51_obj0.adt"
+    },
+    {
+      "id": 778444,
+      "file": "world/maps/azeroth/azeroth_34_51_obj1.adt"
+    },
+    {
+      "id": 778445,
+      "file": "world/maps/azeroth/azeroth_34_51_tex0.adt"
+    },
+    {
+      "id": 778847,
+      "file": "world/maps/azeroth/azeroth_36_51.adt"
+    },
+    {
+      "id": 778848,
+      "file": "world/maps/azeroth/azeroth_36_51_obj0.adt"
+    },
+    {
+      "id": 778849,
+      "file": "world/maps/azeroth/azeroth_36_51_obj1.adt"
+    },
+    {
+      "id": 778850,
+      "file": "world/maps/azeroth/azeroth_36_51_tex0.adt"
+    },
+    {
+      "id": 779037,
+      "file": "world/maps/azeroth/azeroth_37_51.adt"
+    },
+    {
+      "id": 779038,
+      "file": "world/maps/azeroth/azeroth_37_51_obj0.adt"
+    },
+    {
+      "id": 779039,
+      "file": "world/maps/azeroth/azeroth_37_51_obj1.adt"
+    },
+    {
+      "id": 779040,
+      "file": "world/maps/azeroth/azeroth_37_51_tex0.adt"
+    },
+    {
+      "id": 779222,
+      "file": "world/maps/azeroth/azeroth_38_51.adt"
+    },
+    {
+      "id": 779223,
+      "file": "world/maps/azeroth/azeroth_38_51_obj0.adt"
+    },
+    {
+      "id": 779224,
+      "file": "world/maps/azeroth/azeroth_38_51_obj1.adt"
+    },
+    {
+      "id": 779225,
+      "file": "world/maps/azeroth/azeroth_38_51_tex0.adt"
+    },
+    {
+      "id": 777247,
+      "file": "world/maps/azeroth/azeroth_28_52.adt"
+    },
+    {
+      "id": 777248,
+      "file": "world/maps/azeroth/azeroth_28_52_obj0.adt"
+    },
+    {
+      "id": 777249,
+      "file": "world/maps/azeroth/azeroth_28_52_obj1.adt"
+    },
+    {
+      "id": 777250,
+      "file": "world/maps/azeroth/azeroth_28_52_tex0.adt"
+    },
+    {
+      "id": 777437,
+      "file": "world/maps/azeroth/azeroth_29_50.adt"
+    },
+    {
+      "id": 777438,
+      "file": "world/maps/azeroth/azeroth_29_50_obj0.adt"
+    },
+    {
+      "id": 777439,
+      "file": "world/maps/azeroth/azeroth_29_50_obj1.adt"
+    },
+    {
+      "id": 777440,
+      "file": "world/maps/azeroth/azeroth_29_50_tex0.adt"
+    },
+    {
+      "id": 777447,
+      "file": "world/maps/azeroth/azeroth_29_52.adt"
+    },
+    {
+      "id": 777448,
+      "file": "world/maps/azeroth/azeroth_29_52_obj0.adt"
+    },
+    {
+      "id": 777449,
+      "file": "world/maps/azeroth/azeroth_29_52_obj1.adt"
+    },
+    {
+      "id": 777450,
+      "file": "world/maps/azeroth/azeroth_29_52_tex0.adt"
+    },
+    {
+      "id": 778047,
+      "file": "world/maps/azeroth/azeroth_32_52.adt"
+    },
+    {
+      "id": 778048,
+      "file": "world/maps/azeroth/azeroth_32_52_obj0.adt"
+    },
+    {
+      "id": 778049,
+      "file": "world/maps/azeroth/azeroth_32_52_obj1.adt"
+    },
+    {
+      "id": 778050,
+      "file": "world/maps/azeroth/azeroth_32_52_tex0.adt"
+    },
+    {
+      "id": 778242,
+      "file": "world/maps/azeroth/azeroth_33_51.adt"
+    },
+    {
+      "id": 778243,
+      "file": "world/maps/azeroth/azeroth_33_51_obj0.adt"
+    },
+    {
+      "id": 778244,
+      "file": "world/maps/azeroth/azeroth_33_51_obj1.adt"
+    },
+    {
+      "id": 778245,
+      "file": "world/maps/azeroth/azeroth_33_51_tex0.adt"
+    },
+    {
+      "id": 778417,
+      "file": "world/maps/azeroth/azeroth_34_46.adt"
+    },
+    {
+      "id": 778418,
+      "file": "world/maps/azeroth/azeroth_34_46_obj0.adt"
+    },
+    {
+      "id": 778419,
+      "file": "world/maps/azeroth/azeroth_34_46_obj1.adt"
+    },
+    {
+      "id": 778420,
+      "file": "world/maps/azeroth/azeroth_34_46_tex0.adt"
+    },
+    {
+      "id": 778422,
+      "file": "world/maps/azeroth/azeroth_34_47.adt"
+    },
+    {
+      "id": 778423,
+      "file": "world/maps/azeroth/azeroth_34_47_obj0.adt"
+    },
+    {
+      "id": 778424,
+      "file": "world/maps/azeroth/azeroth_34_47_obj1.adt"
+    },
+    {
+      "id": 778425,
+      "file": "world/maps/azeroth/azeroth_34_47_tex0.adt"
+    },
+    {
+      "id": 778447,
+      "file": "world/maps/azeroth/azeroth_34_52.adt"
+    },
+    {
+      "id": 778448,
+      "file": "world/maps/azeroth/azeroth_34_52_obj0.adt"
+    },
+    {
+      "id": 778449,
+      "file": "world/maps/azeroth/azeroth_34_52_obj1.adt"
+    },
+    {
+      "id": 778450,
+      "file": "world/maps/azeroth/azeroth_34_52_tex0.adt"
+    },
+    {
+      "id": 778657,
+      "file": "world/maps/azeroth/azeroth_35_52.adt"
+    },
+    {
+      "id": 778658,
+      "file": "world/maps/azeroth/azeroth_35_52_obj0.adt"
+    },
+    {
+      "id": 778659,
+      "file": "world/maps/azeroth/azeroth_35_52_obj1.adt"
+    },
+    {
+      "id": 778660,
+      "file": "world/maps/azeroth/azeroth_35_52_tex0.adt"
+    },
+    {
+      "id": 778017,
+      "file": "world/maps/azeroth/azeroth_32_46.adt"
+    },
+    {
+      "id": 778018,
+      "file": "world/maps/azeroth/azeroth_32_46_obj0.adt"
+    },
+    {
+      "id": 778019,
+      "file": "world/maps/azeroth/azeroth_32_46_obj1.adt"
+    },
+    {
+      "id": 778020,
+      "file": "world/maps/azeroth/azeroth_32_46_tex0.adt"
+    },
+    {
+      "id": 777222,
+      "file": "world/maps/azeroth/azeroth_28_47.adt"
+    },
+    {
+      "id": 777223,
+      "file": "world/maps/azeroth/azeroth_28_47_obj0.adt"
+    },
+    {
+      "id": 777224,
+      "file": "world/maps/azeroth/azeroth_28_47_obj1.adt"
+    },
+    {
+      "id": 777225,
+      "file": "world/maps/azeroth/azeroth_28_47_tex0.adt"
+    },
+    {
+      "id": 777237,
+      "file": "world/maps/azeroth/azeroth_28_50.adt"
+    },
+    {
+      "id": 777238,
+      "file": "world/maps/azeroth/azeroth_28_50_obj0.adt"
+    },
+    {
+      "id": 777239,
+      "file": "world/maps/azeroth/azeroth_28_50_obj1.adt"
+    },
+    {
+      "id": 777240,
+      "file": "world/maps/azeroth/azeroth_28_50_tex0.adt"
+    },
+    {
+      "id": 777252,
+      "file": "world/maps/azeroth/azeroth_28_53.adt"
+    },
+    {
+      "id": 777253,
+      "file": "world/maps/azeroth/azeroth_28_53_obj0.adt"
+    },
+    {
+      "id": 777254,
+      "file": "world/maps/azeroth/azeroth_28_53_obj1.adt"
+    },
+    {
+      "id": 777255,
+      "file": "world/maps/azeroth/azeroth_28_53_tex0.adt"
+    },
+    {
+      "id": 777357,
+      "file": "world/maps/azeroth/azeroth_29_34.adt"
+    },
+    {
+      "id": 777358,
+      "file": "world/maps/azeroth/azeroth_29_34_obj0.adt"
+    },
+    {
+      "id": 777359,
+      "file": "world/maps/azeroth/azeroth_29_34_obj1.adt"
+    },
+    {
+      "id": 777360,
+      "file": "world/maps/azeroth/azeroth_29_34_tex0.adt"
+    },
+    {
+      "id": 777417,
+      "file": "world/maps/azeroth/azeroth_29_46.adt"
+    },
+    {
+      "id": 777418,
+      "file": "world/maps/azeroth/azeroth_29_46_obj0.adt"
+    },
+    {
+      "id": 777419,
+      "file": "world/maps/azeroth/azeroth_29_46_obj1.adt"
+    },
+    {
+      "id": 777420,
+      "file": "world/maps/azeroth/azeroth_29_46_tex0.adt"
+    },
+    {
+      "id": 777452,
+      "file": "world/maps/azeroth/azeroth_29_53.adt"
+    },
+    {
+      "id": 777453,
+      "file": "world/maps/azeroth/azeroth_29_53_obj0.adt"
+    },
+    {
+      "id": 777454,
+      "file": "world/maps/azeroth/azeroth_29_53_obj1.adt"
+    },
+    {
+      "id": 777455,
+      "file": "world/maps/azeroth/azeroth_29_53_tex0.adt"
+    },
+    {
+      "id": 779312,
+      "file": "world/maps/azeroth/azeroth_39_32.adt"
+    },
+    {
+      "id": 779313,
+      "file": "world/maps/azeroth/azeroth_39_32_obj0.adt"
+    },
+    {
+      "id": 779314,
+      "file": "world/maps/azeroth/azeroth_39_32_obj1.adt"
+    },
+    {
+      "id": 779315,
+      "file": "world/maps/azeroth/azeroth_39_32_tex0.adt"
+    },
+    {
+      "id": 779807,
+      "file": "world/maps/azeroth/azeroth_42_27.adt"
+    },
+    {
+      "id": 779808,
+      "file": "world/maps/azeroth/azeroth_42_27_obj0.adt"
+    },
+    {
+      "id": 779809,
+      "file": "world/maps/azeroth/azeroth_42_27_obj1.adt"
+    },
+    {
+      "id": 779810,
+      "file": "world/maps/azeroth/azeroth_42_27_tex0.adt"
+    },
+    {
+      "id": 779962,
+      "file": "world/maps/azeroth/azeroth_43_27.adt"
+    },
+    {
+      "id": 779963,
+      "file": "world/maps/azeroth/azeroth_43_27_obj0.adt"
+    },
+    {
+      "id": 779964,
+      "file": "world/maps/azeroth/azeroth_43_27_obj1.adt"
+    },
+    {
+      "id": 779965,
+      "file": "world/maps/azeroth/azeroth_43_27_tex0.adt"
+    },
+    {
+      "id": 778052,
+      "file": "world/maps/azeroth/azeroth_32_53.adt"
+    },
+    {
+      "id": 778053,
+      "file": "world/maps/azeroth/azeroth_32_53_obj0.adt"
+    },
+    {
+      "id": 778054,
+      "file": "world/maps/azeroth/azeroth_32_53_obj1.adt"
+    },
+    {
+      "id": 778055,
+      "file": "world/maps/azeroth/azeroth_32_53_tex0.adt"
+    },
+    {
+      "id": 778252,
+      "file": "world/maps/azeroth/azeroth_33_53.adt"
+    },
+    {
+      "id": 778253,
+      "file": "world/maps/azeroth/azeroth_33_53_obj0.adt"
+    },
+    {
+      "id": 778254,
+      "file": "world/maps/azeroth/azeroth_33_53_obj1.adt"
+    },
+    {
+      "id": 778255,
+      "file": "world/maps/azeroth/azeroth_33_53_tex0.adt"
+    },
+    {
+      "id": 778452,
+      "file": "world/maps/azeroth/azeroth_34_53.adt"
+    },
+    {
+      "id": 778453,
+      "file": "world/maps/azeroth/azeroth_34_53_obj0.adt"
+    },
+    {
+      "id": 778454,
+      "file": "world/maps/azeroth/azeroth_34_53_obj1.adt"
+    },
+    {
+      "id": 778455,
+      "file": "world/maps/azeroth/azeroth_34_53_tex0.adt"
+    },
+    {
+      "id": 778632,
+      "file": "world/maps/azeroth/azeroth_35_47.adt"
+    },
+    {
+      "id": 778633,
+      "file": "world/maps/azeroth/azeroth_35_47_obj0.adt"
+    },
+    {
+      "id": 778634,
+      "file": "world/maps/azeroth/azeroth_35_47_obj1.adt"
+    },
+    {
+      "id": 778635,
+      "file": "world/maps/azeroth/azeroth_35_47_tex0.adt"
+    },
+    {
+      "id": 778827,
+      "file": "world/maps/azeroth/azeroth_36_47.adt"
+    },
+    {
+      "id": 778828,
+      "file": "world/maps/azeroth/azeroth_36_47_obj0.adt"
+    },
+    {
+      "id": 778829,
+      "file": "world/maps/azeroth/azeroth_36_47_obj1.adt"
+    },
+    {
+      "id": 778830,
+      "file": "world/maps/azeroth/azeroth_36_47_tex0.adt"
+    },
+    {
+      "id": 779017,
+      "file": "world/maps/azeroth/azeroth_37_47.adt"
+    },
+    {
+      "id": 779018,
+      "file": "world/maps/azeroth/azeroth_37_47_obj0.adt"
+    },
+    {
+      "id": 779019,
+      "file": "world/maps/azeroth/azeroth_37_47_obj1.adt"
+    },
+    {
+      "id": 779020,
+      "file": "world/maps/azeroth/azeroth_37_47_tex0.adt"
+    },
+    {
+      "id": 779392,
+      "file": "world/maps/azeroth/azeroth_39_48.adt"
+    },
+    {
+      "id": 779393,
+      "file": "world/maps/azeroth/azeroth_39_48_obj0.adt"
+    },
+    {
+      "id": 779394,
+      "file": "world/maps/azeroth/azeroth_39_48_obj1.adt"
+    },
+    {
+      "id": 779395,
+      "file": "world/maps/azeroth/azeroth_39_48_tex0.adt"
+    },
+    {
+      "id": 779397,
+      "file": "world/maps/azeroth/azeroth_39_49.adt"
+    },
+    {
+      "id": 779398,
+      "file": "world/maps/azeroth/azeroth_39_49_obj0.adt"
+    },
+    {
+      "id": 779399,
+      "file": "world/maps/azeroth/azeroth_39_49_obj1.adt"
+    },
+    {
+      "id": 779400,
+      "file": "world/maps/azeroth/azeroth_39_49_tex0.adt"
+    },
+    {
+      "id": 777042,
+      "file": "world/maps/azeroth/azeroth_27_51.adt"
+    },
+    {
+      "id": 777043,
+      "file": "world/maps/azeroth/azeroth_27_51_obj0.adt"
+    },
+    {
+      "id": 777044,
+      "file": "world/maps/azeroth/azeroth_27_51_obj1.adt"
+    },
+    {
+      "id": 777045,
+      "file": "world/maps/azeroth/azeroth_27_51_tex0.adt"
+    },
+    {
+      "id": 777047,
+      "file": "world/maps/azeroth/azeroth_27_52.adt"
+    },
+    {
+      "id": 777048,
+      "file": "world/maps/azeroth/azeroth_27_52_obj0.adt"
+    },
+    {
+      "id": 777049,
+      "file": "world/maps/azeroth/azeroth_27_52_obj1.adt"
+    },
+    {
+      "id": 777050,
+      "file": "world/maps/azeroth/azeroth_27_52_tex0.adt"
+    },
+    {
+      "id": 777037,
+      "file": "world/maps/azeroth/azeroth_27_50.adt"
+    },
+    {
+      "id": 777038,
+      "file": "world/maps/azeroth/azeroth_27_50_obj0.adt"
+    },
+    {
+      "id": 777039,
+      "file": "world/maps/azeroth/azeroth_27_50_obj1.adt"
+    },
+    {
+      "id": 777040,
+      "file": "world/maps/azeroth/azeroth_27_50_tex0.adt"
+    },
+    {
+      "id": 776682,
+      "file": "world/maps/azeroth/azeroth_25_53.adt"
+    },
+    {
+      "id": 776683,
+      "file": "world/maps/azeroth/azeroth_25_53_obj0.adt"
+    },
+    {
+      "id": 776684,
+      "file": "world/maps/azeroth/azeroth_25_53_obj1.adt"
+    },
+    {
+      "id": 776685,
+      "file": "world/maps/azeroth/azeroth_25_53_tex0.adt"
+    },
+    {
+      "id": 776687,
+      "file": "world/maps/azeroth/azeroth_25_54.adt"
+    },
+    {
+      "id": 776688,
+      "file": "world/maps/azeroth/azeroth_25_54_obj0.adt"
+    },
+    {
+      "id": 776689,
+      "file": "world/maps/azeroth/azeroth_25_54_obj1.adt"
+    },
+    {
+      "id": 776690,
+      "file": "world/maps/azeroth/azeroth_25_54_tex0.adt"
+    },
+    {
+      "id": 776867,
+      "file": "world/maps/azeroth/azeroth_26_53.adt"
+    },
+    {
+      "id": 776868,
+      "file": "world/maps/azeroth/azeroth_26_53_obj0.adt"
+    },
+    {
+      "id": 776869,
+      "file": "world/maps/azeroth/azeroth_26_53_obj1.adt"
+    },
+    {
+      "id": 776870,
+      "file": "world/maps/azeroth/azeroth_26_53_tex0.adt"
+    },
+    {
+      "id": 777657,
+      "file": "world/maps/azeroth/azeroth_30_54.adt"
+    },
+    {
+      "id": 777658,
+      "file": "world/maps/azeroth/azeroth_30_54_obj0.adt"
+    },
+    {
+      "id": 777659,
+      "file": "world/maps/azeroth/azeroth_30_54_obj1.adt"
+    },
+    {
+      "id": 777660,
+      "file": "world/maps/azeroth/azeroth_30_54_tex0.adt"
+    }
+  ]
+}
